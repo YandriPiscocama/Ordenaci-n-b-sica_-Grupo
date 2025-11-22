@@ -1,0 +1,501 @@
+id;insumo;stock
+ITEM-0001;Torundas Alcohólicas;500
+ITEM-0002;Alcohol 70% 1L;499
+ITEM-0003;Esparadrapo;498
+ITEM-0004;Alcohol Gel 500ml;497
+ITEM-0005;Guante Nitrilo Talla M;496
+ITEM-0006;Sonda Nasogástrica;495
+ITEM-0007;Alcohol Gel 500ml;494
+ITEM-0008;Sonda Nasogástrica;493
+ITEM-0009;Guantes Látex Talla L;492
+ITEM-0010;Guantes Látex Talla L;491
+ITEM-0011;Guante Nitrilo Talla M;490
+ITEM-0012;Sonda Nasogástrica;489
+ITEM-0013;Jeringas 5ml;488
+ITEM-0014;Jeringas 5ml;487
+ITEM-0015;Gasas 10x10;486
+ITEM-0016;Suero Fisiológico 500ml;485
+ITEM-0017;Alcohol Gel 500ml;484
+ITEM-0018;Suero Fisiológico 500ml;483
+ITEM-0019;Gasas 10x10;482
+ITEM-0020;Guante Nitrilo Talla M;481
+ITEM-0021;Gasas 10x10;480
+ITEM-0022;Sonda Nasogástrica;479
+ITEM-0023;Jeringas 5ml;478
+ITEM-0024;Termómetro Digital;477
+ITEM-0025;Bisturí Desechable;476
+ITEM-0026;Suero Fisiológico 500ml;475
+ITEM-0027;Algodón Hidrófilo;474
+ITEM-0028;Guante Nitrilo Talla M;473
+ITEM-0029;Lancetas;472
+ITEM-0030;Lancetas;471
+ITEM-0031;Torundas Alcohólicas;470
+ITEM-0032;Torundas Alcohólicas;469
+ITEM-0033;Mascarilla N95;468
+ITEM-0034;Apósito Adhesivo;467
+ITEM-0035;Termómetro Digital;466
+ITEM-0036;Bisturí Desechable;465
+ITEM-0037;Termómetro Digital;464
+ITEM-0038;Alcohol Gel 500ml;463
+ITEM-0039;Esparadrapo;462
+ITEM-0040;Sonda Nasogástrica;461
+ITEM-0041;Bisturí Desechable;460
+ITEM-0042;Bisturí Desechable;459
+ITEM-0043;Algodón Hidrófilo;458
+ITEM-0044;Esparadrapo;457
+ITEM-0045;Lancetas;456
+ITEM-0046;Jeringas 5ml;455
+ITEM-0047;Algodón Hidrófilo;454
+ITEM-0048;Gasas 10x10;453
+ITEM-0049;Suero Fisiológico 500ml;452
+ITEM-0050;Bisturí Desechable;451
+ITEM-0051;Lancetas;450
+ITEM-0052;Gasas 10x10;449
+ITEM-0053;Alcohol 70% 1L;448
+ITEM-0054;Guantes Látex Talla L;447
+ITEM-0055;Vendas Elásticas;446
+ITEM-0056;Catéter Intravenoso;445
+ITEM-0057;Termómetro Digital;444
+ITEM-0058;Gasas 10x10;443
+ITEM-0059;Termómetro Digital;442
+ITEM-0060;Esparadrapo;441
+ITEM-0061;Alcohol 70% 1L;440
+ITEM-0062;Termómetro Digital;439
+ITEM-0063;Alcohol Gel 500ml;438
+ITEM-0064;Alcohol 70% 1L;437
+ITEM-0065;Esparadrapo;436
+ITEM-0066;Guante Nitrilo Talla M;435
+ITEM-0067;Lancetas;434
+ITEM-0068;Suero Fisiológico 500ml;433
+ITEM-0069;Guantes Látex Talla L;432
+ITEM-0070;Guante Nitrilo Talla M;431
+ITEM-0071;Gasas 10x10;430
+ITEM-0072;Sonda Nasogástrica;429
+ITEM-0073;Lancetas;428
+ITEM-0074;Guantes Látex Talla L;427
+ITEM-0075;Alcohol Gel 500ml;426
+ITEM-0076;Guantes Látex Talla L;425
+ITEM-0077;Catéter Intravenoso;424
+ITEM-0078;Sonda Nasogástrica;423
+ITEM-0079;Alcohol 70% 1L;422
+ITEM-0080;Alcohol Gel 500ml;421
+ITEM-0081;Torundas Alcohólicas;420
+ITEM-0082;Suero Fisiológico 500ml;419
+ITEM-0083;Termómetro Digital;418
+ITEM-0084;Termómetro Digital;417
+ITEM-0085;Bisturí Desechable;416
+ITEM-0086;Termómetro Digital;415
+ITEM-0087;Catéter Intravenoso;414
+ITEM-0088;Bisturí Desechable;413
+ITEM-0089;Esparadrapo;412
+ITEM-0090;Gasas 10x10;411
+ITEM-0091;Catéter Intravenoso;410
+ITEM-0092;Sonda Nasogástrica;409
+ITEM-0093;Gasas 10x10;408
+ITEM-0094;Sonda Nasogástrica;407
+ITEM-0095;Sonda Nasogástrica;406
+ITEM-0096;Guantes Látex Talla L;405
+ITEM-0097;Mascarilla N95;404
+ITEM-0098;Mascarilla N95;403
+ITEM-0099;Gasas 10x10;402
+ITEM-0100;Gasas 10x10;401
+ITEM-0101;Guante Nitrilo Talla M;400
+ITEM-0102;Alcohol Gel 500ml;399
+ITEM-0103;Alcohol 70% 1L;398
+ITEM-0104;Gasas 10x10;397
+ITEM-0105;Torundas Alcohólicas;396
+ITEM-0106;Mascarilla N95;395
+ITEM-0107;Suero Fisiológico 500ml;394
+ITEM-0108;Alcohol 70% 1L;393
+ITEM-0109;Guantes Látex Talla L;392
+ITEM-0110;Apósito Adhesivo;391
+ITEM-0111;Bisturí Desechable;390
+ITEM-0112;Catéter Intravenoso;389
+ITEM-0113;Bisturí Desechable;388
+ITEM-0114;Mascarilla N95;387
+ITEM-0115;Gasas 10x10;386
+ITEM-0116;Vendas Elásticas;385
+ITEM-0117;Torundas Alcohólicas;384
+ITEM-0118;Mascarilla N95;383
+ITEM-0119;Algodón Hidrófilo;382
+ITEM-0120;Algodón Hidrófilo;381
+ITEM-0121;Lancetas;380
+ITEM-0122;Vendas Elásticas;379
+ITEM-0123;Esparadrapo;378
+ITEM-0124;Bisturí Desechable;377
+ITEM-0125;Apósito Adhesivo;376
+ITEM-0126;Alcohol Gel 500ml;375
+ITEM-0127;Alcohol 70% 1L;374
+ITEM-0128;Vendas Elásticas;373
+ITEM-0129;Gasas 10x10;372
+ITEM-0130;Algodón Hidrófilo;371
+ITEM-0131;Alcohol 70% 1L;370
+ITEM-0132;Guantes Látex Talla L;369
+ITEM-0133;Alcohol Gel 500ml;368
+ITEM-0134;Algodón Hidrófilo;367
+ITEM-0135;Gasas 10x10;366
+ITEM-0136;Jeringas 5ml;365
+ITEM-0137;Sonda Nasogástrica;364
+ITEM-0138;Catéter Intravenoso;363
+ITEM-0139;Mascarilla N95;362
+ITEM-0140;Sonda Nasogástrica;361
+ITEM-0141;Alcohol 70% 1L;360
+ITEM-0142;Catéter Intravenoso;359
+ITEM-0143;Gasas 10x10;358
+ITEM-0144;Lancetas;357
+ITEM-0145;Catéter Intravenoso;356
+ITEM-0146;Suero Fisiológico 500ml;355
+ITEM-0147;Alcohol Gel 500ml;354
+ITEM-0148;Guantes Látex Talla L;353
+ITEM-0149;Alcohol 70% 1L;352
+ITEM-0150;Jeringas 5ml;351
+ITEM-0151;Sonda Nasogástrica;350
+ITEM-0152;Torundas Alcohólicas;349
+ITEM-0153;Lancetas;348
+ITEM-0154;Alcohol 70% 1L;347
+ITEM-0155;Algodón Hidrófilo;346
+ITEM-0156;Esparadrapo;345
+ITEM-0157;Sonda Nasogástrica;344
+ITEM-0158;Guante Nitrilo Talla M;343
+ITEM-0159;Mascarilla N95;342
+ITEM-0160;Suero Fisiológico 500ml;341
+ITEM-0161;Lancetas;340
+ITEM-0162;Jeringas 5ml;339
+ITEM-0163;Alcohol 70% 1L;338
+ITEM-0164;Alcohol Gel 500ml;337
+ITEM-0165;Termómetro Digital;336
+ITEM-0166;Alcohol Gel 500ml;335
+ITEM-0167;Termómetro Digital;334
+ITEM-0168;Torundas Alcohólicas;333
+ITEM-0169;Apósito Adhesivo;332
+ITEM-0170;Esparadrapo;331
+ITEM-0171;Vendas Elásticas;330
+ITEM-0172;Guante Nitrilo Talla M;329
+ITEM-0173;Suero Fisiológico 500ml;328
+ITEM-0174;Guante Nitrilo Talla M;327
+ITEM-0175;Vendas Elásticas;326
+ITEM-0176;Termómetro Digital;325
+ITEM-0177;Mascarilla N95;324
+ITEM-0178;Algodón Hidrófilo;323
+ITEM-0179;Bisturí Desechable;322
+ITEM-0180;Catéter Intravenoso;321
+ITEM-0181;Mascarilla N95;320
+ITEM-0182;Algodón Hidrófilo;319
+ITEM-0183;Bisturí Desechable;318
+ITEM-0184;Esparadrapo;317
+ITEM-0185;Suero Fisiológico 500ml;316
+ITEM-0186;Termómetro Digital;315
+ITEM-0187;Guante Nitrilo Talla M;314
+ITEM-0188;Lancetas;313
+ITEM-0189;Apósito Adhesivo;312
+ITEM-0190;Bisturí Desechable;311
+ITEM-0191;Bisturí Desechable;310
+ITEM-0192;Alcohol 70% 1L;309
+ITEM-0193;Algodón Hidrófilo;308
+ITEM-0194;Torundas Alcohólicas;307
+ITEM-0195;Jeringas 5ml;306
+ITEM-0196;Bisturí Desechable;305
+ITEM-0197;Bisturí Desechable;304
+ITEM-0198;Catéter Intravenoso;303
+ITEM-0199;Termómetro Digital;302
+ITEM-0200;Algodón Hidrófilo;301
+ITEM-0201;Vendas Elásticas;300
+ITEM-0202;Esparadrapo;299
+ITEM-0203;Lancetas;298
+ITEM-0204;Mascarilla N95;297
+ITEM-0205;Torundas Alcohólicas;296
+ITEM-0206;Alcohol 70% 1L;295
+ITEM-0207;Alcohol 70% 1L;294
+ITEM-0208;Vendas Elásticas;293
+ITEM-0209;Algodón Hidrófilo;292
+ITEM-0210;Catéter Intravenoso;291
+ITEM-0211;Alcohol 70% 1L;290
+ITEM-0212;Alcohol Gel 500ml;289
+ITEM-0213;Termómetro Digital;288
+ITEM-0214;Sonda Nasogástrica;287
+ITEM-0215;Jeringas 5ml;286
+ITEM-0216;Jeringas 5ml;285
+ITEM-0217;Suero Fisiológico 500ml;284
+ITEM-0218;Guante Nitrilo Talla M;283
+ITEM-0219;Torundas Alcohólicas;282
+ITEM-0220;Gasas 10x10;281
+ITEM-0221;Mascarilla N95;280
+ITEM-0222;Catéter Intravenoso;279
+ITEM-0223;Guantes Látex Talla L;278
+ITEM-0224;Termómetro Digital;277
+ITEM-0225;Algodón Hidrófilo;276
+ITEM-0226;Torundas Alcohólicas;275
+ITEM-0227;Alcohol Gel 500ml;274
+ITEM-0228;Sonda Nasogástrica;273
+ITEM-0229;Suero Fisiológico 500ml;272
+ITEM-0230;Guantes Látex Talla L;271
+ITEM-0231;Lancetas;270
+ITEM-0232;Guante Nitrilo Talla M;269
+ITEM-0233;Jeringas 5ml;268
+ITEM-0234;Catéter Intravenoso;267
+ITEM-0235;Jeringas 5ml;266
+ITEM-0236;Alcohol 70% 1L;265
+ITEM-0237;Vendas Elásticas;264
+ITEM-0238;Gasas 10x10;263
+ITEM-0239;Gasas 10x10;262
+ITEM-0240;Alcohol 70% 1L;261
+ITEM-0241;Lancetas;260
+ITEM-0242;Vendas Elásticas;259
+ITEM-0243;Alcohol Gel 500ml;258
+ITEM-0244;Algodón Hidrófilo;257
+ITEM-0245;Catéter Intravenoso;256
+ITEM-0246;Suero Fisiológico 500ml;255
+ITEM-0247;Jeringas 5ml;254
+ITEM-0248;Algodón Hidrófilo;253
+ITEM-0249;Termómetro Digital;252
+ITEM-0250;Termómetro Digital;251
+ITEM-0251;Catéter Intravenoso;250
+ITEM-0252;Alcohol Gel 500ml;249
+ITEM-0253;Alcohol 70% 1L;248
+ITEM-0254;Alcohol 70% 1L;247
+ITEM-0255;Bisturí Desechable;246
+ITEM-0256;Apósito Adhesivo;245
+ITEM-0257;Algodón Hidrófilo;244
+ITEM-0258;Alcohol 70% 1L;243
+ITEM-0259;Guantes Látex Talla L;242
+ITEM-0260;Alcohol Gel 500ml;241
+ITEM-0261;Esparadrapo;240
+ITEM-0262;Alcohol Gel 500ml;239
+ITEM-0263;Vendas Elásticas;238
+ITEM-0264;Jeringas 5ml;237
+ITEM-0265;Gasas 10x10;236
+ITEM-0266;Suero Fisiológico 500ml;235
+ITEM-0267;Torundas Alcohólicas;234
+ITEM-0268;Lancetas;233
+ITEM-0269;Gasas 10x10;232
+ITEM-0270;Esparadrapo;231
+ITEM-0271;Catéter Intravenoso;230
+ITEM-0272;Lancetas;229
+ITEM-0273;Lancetas;228
+ITEM-0274;Jeringas 5ml;227
+ITEM-0275;Termómetro Digital;226
+ITEM-0276;Sonda Nasogástrica;225
+ITEM-0277;Vendas Elásticas;224
+ITEM-0278;Guantes Látex Talla L;223
+ITEM-0279;Esparadrapo;222
+ITEM-0280;Alcohol 70% 1L;221
+ITEM-0281;Lancetas;220
+ITEM-0282;Gasas 10x10;219
+ITEM-0283;Lancetas;218
+ITEM-0284;Alcohol Gel 500ml;217
+ITEM-0285;Suero Fisiológico 500ml;216
+ITEM-0286;Alcohol 70% 1L;215
+ITEM-0287;Alcohol Gel 500ml;214
+ITEM-0288;Algodón Hidrófilo;213
+ITEM-0289;Esparadrapo;212
+ITEM-0290;Sonda Nasogástrica;211
+ITEM-0291;Termómetro Digital;210
+ITEM-0292;Suero Fisiológico 500ml;209
+ITEM-0293;Guante Nitrilo Talla M;208
+ITEM-0294;Apósito Adhesivo;207
+ITEM-0295;Torundas Alcohólicas;206
+ITEM-0296;Apósito Adhesivo;205
+ITEM-0297;Vendas Elásticas;204
+ITEM-0298;Vendas Elásticas;203
+ITEM-0299;Lancetas;202
+ITEM-0300;Mascarilla N95;201
+ITEM-0301;Alcohol 70% 1L;200
+ITEM-0302;Gasas 10x10;199
+ITEM-0303;Alcohol Gel 500ml;198
+ITEM-0304;Catéter Intravenoso;197
+ITEM-0305;Mascarilla N95;196
+ITEM-0306;Vendas Elásticas;195
+ITEM-0307;Guantes Látex Talla L;194
+ITEM-0308;Guante Nitrilo Talla M;193
+ITEM-0309;Lancetas;192
+ITEM-0310;Bisturí Desechable;191
+ITEM-0311;Vendas Elásticas;190
+ITEM-0312;Vendas Elásticas;189
+ITEM-0313;Sonda Nasogástrica;188
+ITEM-0314;Lancetas;187
+ITEM-0315;Torundas Alcohólicas;186
+ITEM-0316;Torundas Alcohólicas;185
+ITEM-0317;Vendas Elásticas;184
+ITEM-0318;Termómetro Digital;183
+ITEM-0319;Bisturí Desechable;182
+ITEM-0320;Guantes Látex Talla L;181
+ITEM-0321;Sonda Nasogástrica;180
+ITEM-0322;Lancetas;179
+ITEM-0323;Vendas Elásticas;178
+ITEM-0324;Guante Nitrilo Talla M;177
+ITEM-0325;Guante Nitrilo Talla M;176
+ITEM-0326;Guante Nitrilo Talla M;175
+ITEM-0327;Algodón Hidrófilo;174
+ITEM-0328;Guantes Látex Talla L;173
+ITEM-0329;Vendas Elásticas;172
+ITEM-0330;Termómetro Digital;171
+ITEM-0331;Algodón Hidrófilo;170
+ITEM-0332;Gasas 10x10;169
+ITEM-0333;Catéter Intravenoso;168
+ITEM-0334;Guante Nitrilo Talla M;167
+ITEM-0335;Bisturí Desechable;166
+ITEM-0336;Esparadrapo;165
+ITEM-0337;Gasas 10x10;164
+ITEM-0338;Alcohol Gel 500ml;163
+ITEM-0339;Mascarilla N95;162
+ITEM-0340;Suero Fisiológico 500ml;161
+ITEM-0341;Termómetro Digital;160
+ITEM-0342;Alcohol Gel 500ml;159
+ITEM-0343;Catéter Intravenoso;158
+ITEM-0344;Apósito Adhesivo;157
+ITEM-0345;Sonda Nasogástrica;156
+ITEM-0346;Alcohol 70% 1L;155
+ITEM-0347;Suero Fisiológico 500ml;154
+ITEM-0348;Gasas 10x10;153
+ITEM-0349;Catéter Intravenoso;152
+ITEM-0350;Bisturí Desechable;151
+ITEM-0351;Suero Fisiológico 500ml;150
+ITEM-0352;Guante Nitrilo Talla M;149
+ITEM-0353;Alcohol Gel 500ml;148
+ITEM-0354;Catéter Intravenoso;147
+ITEM-0355;Jeringas 5ml;146
+ITEM-0356;Suero Fisiológico 500ml;145
+ITEM-0357;Jeringas 5ml;144
+ITEM-0358;Guantes Látex Talla L;143
+ITEM-0359;Mascarilla N95;142
+ITEM-0360;Bisturí Desechable;141
+ITEM-0361;Guante Nitrilo Talla M;140
+ITEM-0362;Sonda Nasogástrica;139
+ITEM-0363;Guante Nitrilo Talla M;138
+ITEM-0364;Sonda Nasogástrica;137
+ITEM-0365;Lancetas;136
+ITEM-0366;Algodón Hidrófilo;135
+ITEM-0367;Alcohol Gel 500ml;134
+ITEM-0368;Mascarilla N95;133
+ITEM-0369;Guantes Látex Talla L;132
+ITEM-0370;Algodón Hidrófilo;131
+ITEM-0371;Mascarilla N95;130
+ITEM-0372;Lancetas;129
+ITEM-0373;Guantes Látex Talla L;128
+ITEM-0374;Catéter Intravenoso;127
+ITEM-0375;Mascarilla N95;126
+ITEM-0376;Sonda Nasogástrica;125
+ITEM-0377;Gasas 10x10;124
+ITEM-0378;Alcohol 70% 1L;123
+ITEM-0379;Esparadrapo;122
+ITEM-0380;Esparadrapo;121
+ITEM-0381;Algodón Hidrófilo;120
+ITEM-0382;Alcohol 70% 1L;119
+ITEM-0383;Torundas Alcohólicas;118
+ITEM-0384;Guantes Látex Talla L;117
+ITEM-0385;Esparadrapo;116
+ITEM-0386;Guantes Látex Talla L;115
+ITEM-0387;Gasas 10x10;114
+ITEM-0388;Lancetas;113
+ITEM-0389;Algodón Hidrófilo;112
+ITEM-0390;Sonda Nasogástrica;111
+ITEM-0391;Esparadrapo;110
+ITEM-0392;Vendas Elásticas;109
+ITEM-0393;Catéter Intravenoso;108
+ITEM-0394;Alcohol Gel 500ml;107
+ITEM-0395;Algodón Hidrófilo;106
+ITEM-0396;Guantes Látex Talla L;105
+ITEM-0397;Bisturí Desechable;104
+ITEM-0398;Guantes Látex Talla L;103
+ITEM-0399;Apósito Adhesivo;102
+ITEM-0400;Mascarilla N95;101
+ITEM-0401;Alcohol 70% 1L;100
+ITEM-0402;Suero Fisiológico 500ml;99
+ITEM-0403;Lancetas;98
+ITEM-0404;Guante Nitrilo Talla M;97
+ITEM-0405;Torundas Alcohólicas;96
+ITEM-0406;Gasas 10x10;95
+ITEM-0407;Catéter Intravenoso;94
+ITEM-0408;Alcohol Gel 500ml;93
+ITEM-0409;Apósito Adhesivo;92
+ITEM-0410;Esparadrapo;91
+ITEM-0411;Mascarilla N95;90
+ITEM-0412;Gasas 10x10;89
+ITEM-0413;Mascarilla N95;88
+ITEM-0414;Sonda Nasogástrica;87
+ITEM-0415;Jeringas 5ml;86
+ITEM-0416;Alcohol 70% 1L;85
+ITEM-0417;Jeringas 5ml;84
+ITEM-0418;Bisturí Desechable;83
+ITEM-0419;Suero Fisiológico 500ml;82
+ITEM-0420;Alcohol Gel 500ml;81
+ITEM-0421;Apósito Adhesivo;80
+ITEM-0422;Vendas Elásticas;79
+ITEM-0423;Torundas Alcohólicas;78
+ITEM-0424;Gasas 10x10;77
+ITEM-0425;Gasas 10x10;76
+ITEM-0426;Jeringas 5ml;75
+ITEM-0427;Lancetas;74
+ITEM-0428;Torundas Alcohólicas;73
+ITEM-0429;Esparadrapo;72
+ITEM-0430;Catéter Intravenoso;71
+ITEM-0431;Lancetas;70
+ITEM-0432;Guante Nitrilo Talla M;69
+ITEM-0433;Catéter Intravenoso;68
+ITEM-0434;Guante Nitrilo Talla M;67
+ITEM-0435;Apósito Adhesivo;66
+ITEM-0436;Sonda Nasogástrica;65
+ITEM-0437;Bisturí Desechable;64
+ITEM-0438;Suero Fisiológico 500ml;63
+ITEM-0439;Catéter Intravenoso;62
+ITEM-0440;Alcohol Gel 500ml;61
+ITEM-0441;Lancetas;60
+ITEM-0442;Apósito Adhesivo;59
+ITEM-0443;Jeringas 5ml;58
+ITEM-0444;Alcohol Gel 500ml;57
+ITEM-0445;Catéter Intravenoso;56
+ITEM-0446;Mascarilla N95;55
+ITEM-0447;Guante Nitrilo Talla M;54
+ITEM-0448;Mascarilla N95;53
+ITEM-0449;Guante Nitrilo Talla M;52
+ITEM-0450;Apósito Adhesivo;51
+ITEM-0451;Algodón Hidrófilo;50
+ITEM-0452;Guantes Látex Talla L;49
+ITEM-0453;Suero Fisiológico 500ml;48
+ITEM-0454;Suero Fisiológico 500ml;47
+ITEM-0455;Alcohol 70% 1L;46
+ITEM-0456;Guante Nitrilo Talla M;45
+ITEM-0457;Alcohol 70% 1L;44
+ITEM-0458;Alcohol Gel 500ml;43
+ITEM-0459;Algodón Hidrófilo;42
+ITEM-0460;Suero Fisiológico 500ml;41
+ITEM-0461;Guantes Látex Talla L;40
+ITEM-0462;Jeringas 5ml;39
+ITEM-0463;Guantes Látex Talla L;38
+ITEM-0464;Alcohol 70% 1L;37
+ITEM-0465;Alcohol Gel 500ml;36
+ITEM-0466;Jeringas 5ml;35
+ITEM-0467;Alcohol 70% 1L;34
+ITEM-0468;Vendas Elásticas;33
+ITEM-0469;Lancetas;32
+ITEM-0470;Lancetas;31
+ITEM-0471;Lancetas;30
+ITEM-0472;Vendas Elásticas;29
+ITEM-0473;Mascarilla N95;28
+ITEM-0474;Lancetas;27
+ITEM-0475;Suero Fisiológico 500ml;26
+ITEM-0476;Apósito Adhesivo;25
+ITEM-0477;Lancetas;24
+ITEM-0478;Algodón Hidrófilo;23
+ITEM-0479;Bisturí Desechable;22
+ITEM-0480;Alcohol Gel 500ml;21
+ITEM-0481;Suero Fisiológico 500ml;20
+ITEM-0482;Guante Nitrilo Talla M;19
+ITEM-0483;Bisturí Desechable;18
+ITEM-0484;Suero Fisiológico 500ml;17
+ITEM-0485;Alcohol Gel 500ml;16
+ITEM-0486;Apósito Adhesivo;15
+ITEM-0487;Vendas Elásticas;14
+ITEM-0488;Termómetro Digital;13
+ITEM-0489;Mascarilla N95;12
+ITEM-0490;Algodón Hidrófilo;11
+ITEM-0491;Apósito Adhesivo;10
+ITEM-0492;Sonda Nasogástrica;9
+ITEM-0493;Suero Fisiológico 500ml;8
+ITEM-0494;Mascarilla N95;7
+ITEM-0495;Torundas Alcohólicas;6
+ITEM-0496;Torundas Alcohólicas;5
+ITEM-0497;Alcohol 70% 1L;4
+ITEM-0498;Esparadrapo;3
+ITEM-0499;Bisturí Desechable;2
+ITEM-0500;Bisturí Desechable;1
