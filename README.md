@@ -211,24 +211,6 @@ ITEM-0003;Gasas 10x10;498
 | Muchos duplicados (n=500) | **Insertion Sort** | 847 µs | Mitad de comparaciones (57,490 vs 124,750) |
 | Datos aleatorios (n=100) | **Insertion Sort** | 181 µs | Menos comparaciones adaptativas |
 ---
-
-## Validación de Resultados
-
-### Verificar Generación de Datasets
-
-Después de ejecutar `GeneradorDatasets`, verificar:
-```bash
-# Contar líneas de cada archivo (debe incluir +1 por el encabezado)
-wc -l datasets/*.csv
-
-# Salida esperada:
-#  101 datasets/citas_100.csv
-#  101 datasets/citas_100_casi_ordenadas.csv
-#  501 datasets/pacientes_500.csv
-#  501 datasets/inventario_500_inverso.csv
-```
----
-
 ## Notas Importantes
 
 -  **Semilla 42:** Todos los datasets son reproducibles
