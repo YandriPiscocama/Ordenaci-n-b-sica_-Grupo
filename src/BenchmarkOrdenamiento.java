@@ -17,7 +17,7 @@ public class BenchmarkOrdenamiento {
             System.out.println();
 
             // DATASET 2: citas_100_casi_ordenadas.csv
-            System.out.println(" DATASET 2: citas_100_casi_ordenadas.csv (100 registros - 5% desordenado)");
+            System.out.println(" DATASET 2: citas_100_casi_ordenadas.csv (100 registros - desordenados)");
             System.out.println("─────────────────────────────────────────────────────────────");
             String[] citasCasi = LectorCSV.leerCitas("datasets/citas_100_casi_ordenadas.csv");
             ejecutarBenchmark("citas_100_casi_ordenadas", citasCasi);
@@ -53,15 +53,15 @@ public class BenchmarkOrdenamiento {
         int n = datos.length;
 
         // Probar los 3 algoritmos
-        System.out.println("\n🔹 INSERTION SORT:");
+        System.out.println("\n INSERTION SORT:");
         ResultadoOrdenamiento resIns = ejecutarConRepeticiones(datos, "insertion");
         imprimirResultado(n, resIns);
 
-        System.out.println("\n🔹 SELECTION SORT:");
+        System.out.println("\n SELECTION SORT:");
         ResultadoOrdenamiento resSel = ejecutarConRepeticiones(datos, "selection");
         imprimirResultado(n, resSel);
 
-        System.out.println("\n🔹 BUBBLE SORT:");
+        System.out.println("\n BUBBLE SORT:");
         ResultadoOrdenamiento resBub = ejecutarConRepeticiones(datos, "bubble");
         imprimirResultado(n, resBub);
 
